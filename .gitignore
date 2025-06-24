@@ -1,0 +1,23 @@
+# Java
+*.class
+*.log
+*.tmp
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Builds
+/out/
+/bin/
+
+# Sensitive
+config.properties
+.env
+*.db
